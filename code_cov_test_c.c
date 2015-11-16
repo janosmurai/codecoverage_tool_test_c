@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
 	int a = 10;
 	int b = 20;
@@ -32,5 +32,6 @@ void main()
 			printf("Mutliplication: %d", mult);
 		}
 	}
+	return 0;
 	//Start codecov
 }
