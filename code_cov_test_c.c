@@ -32,4 +32,5 @@ void main()
 			printf("Mutliplication: %d", mult);
 		}
 	}
+	//Start codecov
 }
